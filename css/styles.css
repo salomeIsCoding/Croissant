@@ -1,0 +1,29 @@
+body{
+    background-color: yellow;
+    text-align: center;
+}
+
+h1{
+    font-size: 43px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+div {
+    margin-top: 30px;
+}
+
+a{
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
+
+a:hover {
+    cursor: pointer;
+}
